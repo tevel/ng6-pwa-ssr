@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
-This is a third project from [Meetup workshop](https://www.meetup.com/Progressive-Web-Apps-with-modern-frameworks/events/250651881/).
+This is a fourth project from [Meetup workshop](https://www.meetup.com/Progressive-Web-Apps-with-modern-frameworks/events/250651881/).
 
 Based on [template](https://templated.co/redmarket).
 
